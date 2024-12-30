@@ -1,0 +1,5 @@
+Tiempo de ejecución: 0.14 segundos
+Archivo procesado: datos.txt
+MAPE total: 34181998471423.50
+Número de procesos utilizados: 4
+Número de hilos por proceso: 4
